@@ -1,7 +1,6 @@
 # git_learn
 
+**Author : Kapil Verma**
 
-** Author : Kapil Verma **
-
-** Version 0.01 **
+**Version 0.01**
 
